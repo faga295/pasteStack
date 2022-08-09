@@ -1,8 +1,13 @@
 {
   "name": "pastestack",
   "displayName": "pasteStack",
-  "description": "",
+  "description": "copy and paste a list of text",
   "version": "0.0.1",
+  "publisher": "faga",
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/faga1/pasteStack"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
